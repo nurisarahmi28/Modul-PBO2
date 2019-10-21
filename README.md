@@ -5,7 +5,7 @@ Latihan 1
 
 hasil output:
 
-![Alt Text](https://github.com/nurisarahmi28/Modul-PBO2/blob/master/latihan1%20pbo2.PNG)
+![Alt Text](https://github.com/nurisarahmi28/Modul-PBO2/blob/master/LATIHAN1%20modul%20PBO2.PNG)
 
 ~> jumlah penumpang bus akhir melebihi kapasitas,maksimalnya hanya 15 orang saja.
 
